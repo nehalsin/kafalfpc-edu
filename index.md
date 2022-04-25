@@ -18,6 +18,7 @@ Latest on top.
     - Scratch
     - Introduction to Emacslisp books given
     - Export to HTML. 
+    - Logic behind commands
 3. Kstars
 4. More such educational software in Education category. 
 5. How to connect internet on Knoppix? 
@@ -33,7 +34,7 @@ Latest on top.
 15. Why use of Lightning app as browser? Intro to F-droid. 
 16. GitHub licenses. Copyleft. 
 
-## 2022-04-24
+### 2022-04-24
 1. Short trek to _Gadera_. 
 2. Physics. Definition of Magnetic force checked and corrected. 
 3. Experiment to generate electric current from magnets. Paint drawing of the diagram. 
