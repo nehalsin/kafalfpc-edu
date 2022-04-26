@@ -4,6 +4,11 @@ Latest on top.
 
 ## 2022-04-26
 1. Hard disk transfer
+2. Internet connected on Knoppix via USB tethering once phone was connected to WiFi.
+3. Child installs Knoppix on pendrive. Pendrive working. Data saved. 
+4. Notes in notebook. 
+5. Kanagram: letter order educational game. [Source code](https://github.com/KDE/kanagram)
+6. [Mind Mapping](fossknoppixemacslispintro.pdf): FOSS, KNOPPIX, EMACS, ORG MODE, ORG BABEL. [Practical example](screenshot_2022-04-26.png). 
 
 ## 2022-04-25
 1. Knoppix 9.1 on Dell Laptop Introduction.
@@ -44,11 +49,16 @@ Latest on top.
 3. Experiment to generate electric current from magnets. Paint drawing of the diagram. 
 
 ## Upcoming Programmes
-- [ ] Export from ORG to PDF
-- [ ] Knoppix pendrive for Knoppix installation
+- [x] Export from ORG to PDF
+- [x] Knoppix pendrive for Knoppix installation
 - Pending MMs 
+    - [x] FOSS Introduction
     - [ ] Knoppix Installation Steps
-    - [ ] Knoppix Introduction
-    - [ ] Emacs Introduction
-    - [ ] Org Mode Introduction
-    - [ ] Emacs Lisp for Kids 
+    - [x] Knoppix Introduction
+    - [x] Emacs Introduction
+    - [x] Org Mode Introduction
+    - [x] Emacs Lisp for Kids 
+
+## References
+1. [Emacs Lisp](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf) 
+2. [Org Babel](https://www.jstatsoft.org/article/download/v046i03/557)
