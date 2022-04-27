@@ -9,6 +9,7 @@ Latest on top.
 4. Notes in notebook. 
 5. Kanagram: letter order educational game. [Source code](https://github.com/KDE/kanagram)
 6. [Mind Mapping](fossknoppixemacslispintro.pdf): FOSS, KNOPPIX, EMACS, ORG MODE, ORG BABEL. [Practical example](screenshot_2022-04-26.png). 
+7. Picolisp installation on LXTerminal. Steps notes in notebook by child. 
 
 ## 2022-04-25
 1. Knoppix 9.1 on Dell Laptop Introduction.

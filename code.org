@@ -1,0 +1,9 @@
+* Picolisp code doc
+** <2022-04-26 Tue>
+*** Sum of 1 to 100, 1 to 1000
+knoppix@Microknoppix:~$ picolisp
+: (apply + (range 1 100))
+-> 5050
+: (apply + (range 1 1000))
+-> 500500
+: 
