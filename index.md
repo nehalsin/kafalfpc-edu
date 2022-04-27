@@ -2,14 +2,24 @@
 
 Latest on top. 
 
+Child's Age: 12 Years
+
+## 2022-04-27
+1. Picolisp on Emacs shell. Noting commands in notebook. 
+2. [Basic addition, subtraction, multiplication, division on Picolisp interpreter.](2022-04-27_10-43-30.png) 
+3. Use of [_apply_](2022-04-27_10-44-00.png), [_range_, _max_, _min_ in summation of numbers from 1-100, 1-1000, 1-100000](2022-04-27_10-44-24.png); [factorial of 5, 20](2022-04-27_10-54-41.png). 
+4. How to define functions in Picolisp? Use of _de_ in finding areas of rectangle, square, triangle, circle. 
+5. [Giving example of area of rectangle child codes area of square himself successfully](2022-04-27_10-54-41.png). 
+6. [Average. Arithmetic Progression.](avg-ap-2022-04-27.pdf)
+
 ## 2022-04-26
-1. Hard disk transfer
+1. Hard disk transfer: Mega Digital Library
 2. Internet connected on Knoppix via USB tethering once phone was connected to WiFi.
 3. Child installs Knoppix on pendrive. Pendrive working. Data saved. 
 4. Notes in notebook. 
 5. Kanagram: letter order educational game. [Source code](https://github.com/KDE/kanagram)
 6. [Mind Mapping](fossknoppixemacslispintro.pdf): FOSS, KNOPPIX, EMACS, ORG MODE, ORG BABEL. [Practical example](screenshot_2022-04-26.png). 
-7. Picolisp installation on LXTerminal. Steps notes in notebook by child. 
+7. Picolisp installation on LXTerminal. Steps in notebook by child. 
 
 ## 2022-04-25
 1. Knoppix 9.1 on Dell Laptop Introduction.
@@ -55,11 +65,18 @@ Latest on top.
 - Pending MMs 
     - [x] FOSS Introduction
     - [ ] Knoppix Installation Steps
+        - [x] Notes
+        - [ ] MM
     - [x] Knoppix Introduction
     - [x] Emacs Introduction
     - [x] Org Mode Introduction
     - [x] Emacs Lisp for Kids 
+- [ ] [Emacs for Kids](https://academickids.com/encyclopedia/index.php/EMACS)
 
 ## References
 1. [Emacs Lisp](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf) 
 2. [Org Babel](https://www.jstatsoft.org/article/download/v046i03/557)
+
+## Abbreviations
+**MM**: Mind Mapping
+
