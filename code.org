@@ -169,4 +169,18 @@ knoppix@Microknoppix:~$
 -> (1 2 3 4)
 :(append (1 2 3) (4 5 6))
 -> (1 2 3 4 5 6)
+*** Query by Rudransh
+**** Print own name on entering a key 
+: (de rud (A) (println "Rudransh"))
+-> rud
+: (rud 1)
+"Rudransh"
+-> "Rudransh"
+: (rud 2)
+"Rudransh"
+-> "Rudransh"
+: (rud 3)
+"Rudransh"
+-> "Rudransh"
+
 

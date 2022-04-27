@@ -12,6 +12,8 @@ Child's Age: 12 Years
 5. [Giving example of area of rectangle child codes area of square himself successfully](2022-04-27_10-54-41.png). 
 6. [Average. Arithmetic Progression.](avg-ap-2022-04-27.pdf)
 7. [Org mode file](code.org) of code saved from shell. 
+8. Query by child: [Print own name on any key input.](2022-04-27_14-34-35.png)
+9. How to install any language on Knoppix? `apt-get install`
 
 ## 2022-04-26
 1. Hard disk transfer: Mega Digital Library
@@ -77,6 +79,7 @@ Child's Age: 12 Years
 ## References
 1. [Emacs Lisp](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf) 
 2. [Org Babel](https://www.jstatsoft.org/article/download/v046i03/557)
+3. [Why using Javascript is a bad practice?](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.gnu.org/philosophy/javascript-trap.en.html&ved=2ahUKEwi9pvW887P3AhVGwjgGHRx7B-MQFnoECA4QAQ&usg=AOvVaw1-YTtObDg9VFjQs6kAmqUm) 
 
 ## Abbreviations
 **MM**: Mind Mapping
