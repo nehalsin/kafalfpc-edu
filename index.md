@@ -8,7 +8,7 @@ Child's Age: 12 Years
 1. Picolisp on Emacs shell. Noting commands in notebook. 
 2. [Basic addition, subtraction, multiplication, division on Picolisp interpreter.](2022-04-27_10-43-30.png) 
 3. Use of [_apply_](2022-04-27_10-44-00.png), [_range_, _max_, _min_ in summation of numbers from 1-100, 1-1000, 1-100000](2022-04-27_10-44-24.png); [factorial of 5, 20](2022-04-27_10-54-41.png). 
-4. How to define functions in Picolisp? Use of _de_ in finding areas of rectangle, square, triangle, circle. 
+4. How to define functions in Picolisp? Use of _de_ in finding areas of rectangle, square. 
 5. [Giving example of area of rectangle child codes area of square himself successfully](2022-04-27_10-54-41.png). 
 6. [Average. Arithmetic Progression.](avg-ap-2022-04-27.pdf)
 7. [Org mode file](code.org) of code saved from shell. 
@@ -16,6 +16,7 @@ Child's Age: 12 Years
 9. How to install any language on Knoppix? `apt-get install lang`
 10. Query by child: Why no JavaScript? See References.
 11. Query by child: How to edit apks in Emacs? See References. 
+12. Midnight Commander: Why, What.
 
 ## 2022-04-26
 1. Hard disk transfer: Mega Digital Library
