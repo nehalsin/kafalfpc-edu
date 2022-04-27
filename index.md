@@ -11,6 +11,7 @@ Child's Age: 12 Years
 4. How to define functions in Picolisp? Use of _de_ in finding areas of rectangle, square, triangle, circle. 
 5. [Giving example of area of rectangle child codes area of square himself successfully](2022-04-27_10-54-41.png). 
 6. [Average. Arithmetic Progression.](avg-ap-2022-04-27.pdf)
+7. [Org mode file](code.org) of code saved from shell. 
 
 ## 2022-04-26
 1. Hard disk transfer: Mega Digital Library
