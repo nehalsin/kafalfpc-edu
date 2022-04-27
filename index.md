@@ -13,7 +13,9 @@ Child's Age: 12 Years
 6. [Average. Arithmetic Progression.](avg-ap-2022-04-27.pdf)
 7. [Org mode file](code.org) of code saved from shell. 
 8. Query by child: [Print own name on any key input.](2022-04-27_14-34-35.png)
-9. How to install any language on Knoppix? `apt-get install`
+9. How to install any language on Knoppix? `apt-get install lang`
+10. Query by child: Why no JavaScript? See References.
+11. Query by child: How to edit apks in Emacs? See References. 
 
 ## 2022-04-26
 1. Hard disk transfer: Mega Digital Library
@@ -80,6 +82,8 @@ Child's Age: 12 Years
 1. [Emacs Lisp](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf) 
 2. [Org Babel](https://www.jstatsoft.org/article/download/v046i03/557)
 3. [Why using Javascript is a bad practice?](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.gnu.org/philosophy/javascript-trap.en.html&ved=2ahUKEwi9pvW887P3AhVGwjgGHRx7B-MQFnoECA4QAQ&usg=AOvVaw1-YTtObDg9VFjQs6kAmqUm) 
+4. [Using Picolisp for Android App Development](https://picolisp.com/wiki/?pilbox)
+5. [Developing Android app with Emacs](https://yannik520.github.io/emacs_android.html)
 
 ## Abbreviations
 **MM**: Mind Mapping
