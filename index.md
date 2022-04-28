@@ -2,20 +2,20 @@
 
 Latest on top. 
 
-Child's Age: 12 Years
+Student's Age: 12 Years
 
 ## 2022-04-27
 1. Picolisp on Emacs shell. Noting commands in notebook. 
 2. [Basic addition, subtraction, multiplication, division on Picolisp interpreter.](2022-04-27_10-43-30.png) 
 3. Use of [_apply_](2022-04-27_10-44-00.png), [_range_, _max_, _min_ in summation of numbers from 1-100, 1-1000, 1-100000](2022-04-27_10-44-24.png); [factorial of 5, 20](2022-04-27_10-54-41.png). 
 4. How to define functions in Picolisp? Use of _de_ in finding areas of rectangle, square. 
-5. [Giving example of area of rectangle child codes area of square himself successfully](2022-04-27_10-54-41.png). 
+5. [Giving example of area of rectangle Student codes area of square himself successfully](2022-04-27_10-54-41.png). 
 6. [Average. Arithmetic Progression.](avg-ap-2022-04-27.pdf)
 7. [Org mode file](code.org) of code saved from shell. 
-8. Query by child: [Print own name on any key input.](2022-04-27_14-34-35.png)
+8. Query by Student: [Print own name on any key input.](2022-04-27_14-34-35.png)
 9. How to install any language on Knoppix? `apt-get install lang`
-10. Query by child: Why no JavaScript? See References.
-11. Query by child: How to edit apks in Emacs? See References. 
+10. Query by Student: Why no JavaScript? See References.
+11. Query by Student: How to edit apks in Emacs? See References. 
 12. Midnight Commander: Why, What.
 
 ## 2022-04-26
@@ -25,10 +25,10 @@ Child's Age: 12 Years
 4. Notes in notebook. 
 5. Kanagram: letter order educational game. [Source code](https://github.com/KDE/kanagram)
 6. [Mind Mapping](fossknoppixemacslispintro.pdf): FOSS, KNOPPIX, EMACS, ORG MODE, ORG BABEL. [Practical example](screenshot_2022-04-26.png). 
-7. Picolisp installation on LXTerminal. Steps in notebook by child. 
+7. Picolisp installation on LXTerminal. Steps in notebook by Student. 
 
 ## 2022-04-25
-1. Knoppix 9.1 on Dell Laptop Introduction.
+1. Introduction to Knoppix 9.1 on laptop.
 2. Emacs Introduction. 
     - Emacs Psychotherapist
     - Games: text based
@@ -37,7 +37,7 @@ Child's Age: 12 Years
     -  Why Emacs? 
     - How to access documentation and tutorial? 
     - Increasing font size and changing the theme
-    - Scratch
+    - Scratch buffer
     - Introduction to Emacslisp books given
     - Export to HTML. 
     - Logic behind commands
@@ -49,7 +49,7 @@ Child's Age: 12 Years
 8. Corrections in Emacs org mode outline first file created. 
 9. Relevance of Sanskrit as learning language. What you write you speak. What you speak you write. Scientific aspect. 
 10. Why confusion in some spellings in English? Logic behind human languages. 
-11. Yoga session. Many great asanas done by child. Health suggestion to take Amla, and Semal Bark Kadha. 
+11. Yoga session. Many great asanas done by Student. Health suggestion to take Amla, and Semal Bark Kadha. 
 12. Piano music. Intro to Yanni music. 
 13. Learning GitHub. Intro to own site and repos.
 14. Intro to Markor.
@@ -61,7 +61,7 @@ Child's Age: 12 Years
 20. Hard disk transfer.
 
 ## 2022-04-24
-1. Short trek to _gadhera_. 
+1. Short trek to _gadera_. 
 2. Physics. Definition of Magnetic force checked and corrected. 
 3. Experiment to generate electric current from magnets. Paint drawing of the diagram. 
 
