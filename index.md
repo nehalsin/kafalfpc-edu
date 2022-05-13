@@ -19,13 +19,12 @@ Student's Age: 12 Years
 12. Midnight Commander: Why, What.
 
 ## 2022-04-26
-1. Hard disk transfer: Mega Digital Library
-2. Internet connected on Knoppix via USB tethering once phone was connected to WiFi.
-3. Child installs Knoppix on pendrive. Pendrive working. Data saved. 
-4. Notes in notebook. 
-5. Kanagram: letter order educational game. [Source code](https://github.com/KDE/kanagram)
-6. [Mind Mapping](fossknoppixemacslispintro.pdf): FOSS, KNOPPIX, EMACS, ORG MODE, ORG BABEL. [Practical example](screenshot_2022-04-26.png). 
-7. Picolisp installation on LXTerminal. Steps in notebook by Student. 
+1. Internet connected on Knoppix via USB tethering once phone was connected to WiFi.
+2. Child installs Knoppix on pendrive. Pendrive working. Data saved. 
+3. Notes in notebook. 
+4. Kanagram: letter order educational game. [Source code](https://github.com/KDE/kanagram)
+5. [Mind Mapping](fossknoppixemacslispintro.pdf): FOSS, KNOPPIX, EMACS, ORG MODE, ORG BABEL. [Practical example](screenshot_2022-04-26.png). 
+6. Picolisp installation on LXTerminal. Steps in notebook by Student. 
 
 ## 2022-04-25
 1. Introduction to Knoppix 9.1 on laptop.
@@ -53,12 +52,10 @@ Student's Age: 12 Years
 12. Piano music. Intro to Yanni music. 
 13. Learning GitHub. Intro to own site and repos.
 14. Intro to Markor.
-15. Sanskrit CD ripped on Knoppix.
-16. Why use of Lightning app as browser? Intro to F-droid. 
-17. GitHub licenses. Copyleft. 
-18. F-droid download. Installation.
-19. Markor app installation. 
-20. Hard disk transfer.
+15. Why use of Lightning app as browser? Intro to F-droid. 
+16. GitHub licenses. Copyleft. 
+17. F-droid download. Installation.
+18. Markor app installation. 
 
 ## 2022-04-24
 1. Short trek to _gadera_. 
